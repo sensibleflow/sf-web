@@ -18,6 +18,8 @@ Navigating elements happens with the arrow keys (or hjkl for screenreader users)
 - left goes one layer to the left, to the parent of current layer
 - up and down goes up and down in current layer
 
+Try out: [sensibleflow.com](https://sensibleflow.com)
+
 In editor mode you can also append en insert elements: ctrl+i, Ctrl+a or enter  
 Deleting an element is ctrl+d
 
