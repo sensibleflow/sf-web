@@ -28,6 +28,10 @@ Ctrl+f to find
 Ctrl+xcv  
 Ctrl(+shift)+z
 
+## Reach out:
+
+[discord](https://discord.gg/NnUP6Y6v)
+
 ## Based on Nuxt UI Starter
 
 Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
